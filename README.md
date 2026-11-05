@@ -1,2 +1,0 @@
-# alphasurge
-Static site
